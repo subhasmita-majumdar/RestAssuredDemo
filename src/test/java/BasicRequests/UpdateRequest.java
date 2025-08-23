@@ -1,4 +1,4 @@
-package test.java;
+package BasicRequests;
 
 import org.testng.annotations.Test;
 

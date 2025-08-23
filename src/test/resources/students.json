@@ -1,0 +1,84 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John",
+      "location": "India",
+      "phone": "1234567890",
+      "courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Lina",
+      "location": "Canada",
+      "phone": "0987654321",
+      "courses": [
+        "Python",
+        "Robot Framework"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Jack",
+      "location": "London",
+      "phone": "+44123456",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": "4",
+      "courses": [
+        "Java",
+        "Rest Assured"
+      ],
+      "phone": "+61-626689",
+      "name": "Jena",
+      "location": "Amsterdam"
+    },
+    {
+      "id": "5",
+      "courses": [
+        "Perl",
+        "PHP"
+      ],
+      "phone": "+21-88995566",
+      "name": "Mark",
+      "location": "Silicon Valley"
+    },
+    {
+      "id": "6",
+      "name": "Satya Nadella",
+      "phone": "+21-800995566",
+      "location": "Silicon Valley",
+      "courses": [
+        "Python",
+        "Playwright"
+      ]
+    },
+    {
+      "id": "7",
+      "courses": [
+        "Music",
+        "Acting"
+      ],
+      "phone": "+31-88995566",
+      "name": "Hanna",
+      "location": "Los Angeles"
+    },
+    {
+      "id": "8",
+      "courses": [
+        "Music",
+        "Acting"
+      ],
+      "phone": "+31-88995566",
+      "name": "Hanna",
+      "location": "Los Angeles"
+    }
+  ]
+}
